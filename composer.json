@@ -1,5 +1,5 @@
 {
-    "name": "webbions-laracontactform/contactform",
+    "name": "webbions-laracontactform/webbicontactform",
     "description": "A contact form package for laravel",
     "authors": [{
         "name": "akash",
@@ -8,7 +8,7 @@
     "require": {},
     "autoload": {
         "psr-4": {
-            "webbions-laracontactform\\Contactform\\": "src/"
+            "webbions-laracontactform\\Webbicontactform\\": "src/"
         }
     }
 }
